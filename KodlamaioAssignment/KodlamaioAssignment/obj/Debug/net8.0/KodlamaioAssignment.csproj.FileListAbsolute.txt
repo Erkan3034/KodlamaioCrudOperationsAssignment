@@ -1,0 +1,14 @@
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\KodlamaioAssignment\KodlamaioAssignment\bin\Debug\net8.0\KodlamaioAssignment.exe
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\KodlamaioAssignment\KodlamaioAssignment\bin\Debug\net8.0\KodlamaioAssignment.deps.json
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\KodlamaioAssignment\KodlamaioAssignment\bin\Debug\net8.0\KodlamaioAssignment.runtimeconfig.json
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\KodlamaioAssignment\KodlamaioAssignment\bin\Debug\net8.0\KodlamaioAssignment.dll
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\KodlamaioAssignment\KodlamaioAssignment\bin\Debug\net8.0\KodlamaioAssignment.pdb
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\KodlamaioAssignment\KodlamaioAssignment\obj\Debug\net8.0\KodlamaioAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\KodlamaioAssignment\KodlamaioAssignment\obj\Debug\net8.0\KodlamaioAssignment.AssemblyInfoInputs.cache
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\KodlamaioAssignment\KodlamaioAssignment\obj\Debug\net8.0\KodlamaioAssignment.AssemblyInfo.cs
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\KodlamaioAssignment\KodlamaioAssignment\obj\Debug\net8.0\KodlamaioAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\KodlamaioAssignment\KodlamaioAssignment\obj\Debug\net8.0\KodlamaioAssignment.dll
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\KodlamaioAssignment\KodlamaioAssignment\obj\Debug\net8.0\refint\KodlamaioAssignment.dll
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\KodlamaioAssignment\KodlamaioAssignment\obj\Debug\net8.0\KodlamaioAssignment.pdb
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\KodlamaioAssignment\KodlamaioAssignment\obj\Debug\net8.0\KodlamaioAssignment.genruntimeconfig.cache
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\KodlamaioAssignment\KodlamaioAssignment\obj\Debug\net8.0\ref\KodlamaioAssignment.dll

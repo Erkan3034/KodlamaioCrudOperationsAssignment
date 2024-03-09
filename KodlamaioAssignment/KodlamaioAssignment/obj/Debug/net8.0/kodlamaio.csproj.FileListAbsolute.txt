@@ -1,0 +1,14 @@
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\kodlamaio-master\kodlamaio\bin\Debug\net8.0\kodlamaio.exe
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\kodlamaio-master\kodlamaio\bin\Debug\net8.0\kodlamaio.deps.json
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\kodlamaio-master\kodlamaio\bin\Debug\net8.0\kodlamaio.runtimeconfig.json
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\kodlamaio-master\kodlamaio\bin\Debug\net8.0\kodlamaio.dll
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\kodlamaio-master\kodlamaio\bin\Debug\net8.0\kodlamaio.pdb
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\kodlamaio-master\kodlamaio\obj\Debug\net8.0\kodlamaio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\kodlamaio-master\kodlamaio\obj\Debug\net8.0\kodlamaio.AssemblyInfoInputs.cache
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\kodlamaio-master\kodlamaio\obj\Debug\net8.0\kodlamaio.AssemblyInfo.cs
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\kodlamaio-master\kodlamaio\obj\Debug\net8.0\kodlamaio.csproj.CoreCompileInputs.cache
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\kodlamaio-master\kodlamaio\obj\Debug\net8.0\kodlamaio.dll
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\kodlamaio-master\kodlamaio\obj\Debug\net8.0\refint\kodlamaio.dll
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\kodlamaio-master\kodlamaio\obj\Debug\net8.0\kodlamaio.pdb
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\kodlamaio-master\kodlamaio\obj\Debug\net8.0\kodlamaio.genruntimeconfig.cache
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\kodlamaio-master\kodlamaio\obj\Debug\net8.0\ref\kodlamaio.dll
